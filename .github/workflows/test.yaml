@@ -1,5 +1,6 @@
 name: zware tests
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
